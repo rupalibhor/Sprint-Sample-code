@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringsqsApplication<springsqs>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.rb.sp.springsqs.SpringsqsApplication",
+            "projectName": "springsqs",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
